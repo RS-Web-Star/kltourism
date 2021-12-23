@@ -1,0 +1,223 @@
+
+.second{
+    background-image: url(./images/front1.jpg);
+    background-size: cover;
+    height: 700px;
+    width: 100%;
+   
+}
+.contain{
+    background-image: url(./images/img\ 3.jpg);
+    background-size: cover;
+}
+.form1{
+    background-clip: border-box;
+    color:rgb(255, 255, 255);
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 7%;
+    padding: 10px;
+}
+.form2{
+    background-clip: border-box;
+    color:rgb(255, 255, 255);
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 7%;
+    padding: 10px;
+}
+.carstyle{
+    margin-top: 2%;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-bottom: 2%;
+}
+.carstyle h2{
+  font-size: 70px;
+}
+.carstyle p{
+  font-size: 25px;
+  font-family:cursive
+}
+#tourist{
+  text-align:center ;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.about1{
+    background-color:mediumaquamarine;
+}
+
+.second .card{
+    margin-left: 25px;
+}
+
+#navigation-bar li:hover a::before {
+    right: 0;
+    left: 0;
+  }
+  #navigation-bar a {
+    color:black;
+    font-size: 20px;
+    text-decoration: none;
+    text-align: center;
+    margin-left: 30%;
+    padding: 20px 0;
+    display: block;
+    position: relative;
+    transition: all 0.3s ease;
+  }
+  #navigation-bar a:hover {
+    color: #e74c3c;
+  }
+  #navigation-bar a::before {
+    content: "";
+    transition: all 0.4s ease-in-out;
+    position: absolute;
+    right: 50%;
+    left: 50%;
+    bottom: 0;
+    height: 2px;
+    background-color: #e74c3c;
+  }
+  #navigation-bar a:hover::before {
+    right: 0;
+    left: 0;
+  }
+   
+  li {
+   list-style: none;
+  }
+
+  .foot1{
+    text-align: center;
+    background-color: aquamarine;
+    color: black;
+    height: 40px;
+    margin-bottom: 0%;
+  }
+
+  .foot1 p{
+    background-color:aquamarine;
+  }
+
+  .fourth img{
+      height: 300px;
+      width: 300px;
+      margin-left: 39%;
+      margin-top :40px; 
+      border-radius: 90%;
+  }
+  .fourth p{
+   font-size: larger;
+   font-family:sans-serif;
+   margin-left: 2%;
+  }
+  .fourth h2{
+    text-align: center;
+  }
+  .fifth h1{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    margin-top: 2%;
+  }
+ .sixth{
+   background-color:darkseagreen;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 10%;
+  }
+  .sixth h5{
+    text-align: center;
+  }
+  .district{
+    background-color:darkseagreen;
+  }
+  .seven{
+    background-color:skyblue;
+
+  }
+  .fourth p{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+  }
+  .fourth h3{
+text-transform: uppercase;
+margin-left: 2%;
+  }
+.seven .fourth h1{
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-align: center;
+}
+.nine{
+  background-color: darkcyan;
+}
+.eleven{
+  margin-left: 15%;
+  margin-top: 5%;
+}
+.ten{
+  margin-top: 5%;
+  padding: 5%;
+}
+.ten h2{
+  text-align: center;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.ten #icona{
+  margin-left: 150px;
+  margin-top: 3%;
+  float: left;
+  color:crimson;
+}
+.ten #iconb{
+  margin-left: 160px;
+  margin-top: 3%;
+  float: left;
+  color:blue;
+}
+.ten #iconc{
+  margin-left: 170px;
+  margin-top: 3% ;
+  float: left;
+  color:darkblue;
+}
+.ten #icond{
+  margin-left: 180px;
+  margin-top: 3% ;
+  float: left;
+  color: blue;
+}
+.ten #icone{
+  margin-left: 190px;
+  margin-top: 3% ;
+  float: left;
+  color:crimson;
+}
+.foot2{
+  background-color:darkcyan;
+  text-align: center;
+  color: black;
+    height: 40px;
+    margin-top: 1px;
+    margin-bottom: 0%;
+    margin-top: 17%;
+
+}
+.foot2 p{
+  background-color:darkcyan;
+}
+.abc
+{
+  border: 3px;
+  padding: 2px;
+}
+.fifteen{
+  background-color:darkseagreen;
+   margin-left: 5%;
+   margin-right: 5%;
+   margin-bottom: 10%;
+  }
+  .fifteen h5{
+    text-align: center;
+    text-transform: uppercase;
+  }
